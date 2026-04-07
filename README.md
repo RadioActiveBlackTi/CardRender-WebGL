@@ -16,19 +16,24 @@ Some part would not function due to CORS (practiced on vscode html live).
 - cors.js: some CORS things
 
 ## exercise01
+**Link for ex1.html: https://radioactiveblackti.github.io/CardRender-WebGL/exercise01/ex1.html**
 - Thin-box Rotation and Translation with matrix.
 
 ## exercise02
+**Link for ex2.html: https://radioactiveblackti.github.io/CardRender-WebGL/exercise02/ex2.html**
 - migration of exercise01 with Quaternion and Rbt.
 
 ## exercise03
+**Link for ex3.html: https://radioactiveblackti.github.io/CardRender-WebGL/exercise03/ex3.html**
 - Round-walled box composition with Scene Graph
 - Schene-graph oriented transformation
 
 ## exercise04
+**Link for ex4.html: https://radioactiveblackti.github.io/CardRender-WebGL/exercise04/ex4.html**
 - Arcball Interaction
 
 ## exercise05
+**Link for ex5.html: https://radioactiveblackti.github.io/CardRender-WebGL/exercise05/ex5.html**
 - One more Card Object
 - Texture Mappinbg
 - Diffuse, Specular, anisotropy
